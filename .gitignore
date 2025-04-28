@@ -3,7 +3,6 @@
 ### IDE developers may used
 .vscode
 .idea
-
 #
 # Binaries for programs and plugins
 *.exe
